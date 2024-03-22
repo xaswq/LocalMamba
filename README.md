@@ -79,7 +79,7 @@ We tested our code on `torch==1.13.1` and `torch==2.0.2`.
 
 _**Install Mamba kernels:**_
 ```shell
-cd causual-conv1d && pip install .
+cd causal-conv1d && pip install .
 cd ..
 cd mamba-1p1p1 && pip install .
 ```
